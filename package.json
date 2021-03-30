@@ -4,7 +4,7 @@
   "description": "Servidor y login ComprasCDE",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "author": "Arnaldo Cardozo",
   "license": "ISC",
